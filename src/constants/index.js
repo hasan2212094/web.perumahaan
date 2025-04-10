@@ -42,31 +42,31 @@ export const LINKS = [
 
 export const HERO_CONTENT = {
   title: "SAEHome",
-  subtitle: "Reimagine Your Space with Expert Renovation Services",
+  subtitle: "Perumahaan Dengan Desain yang Lebih moderen dengan lokasi yang Strategis",
   image: hero,
 };
 
 export const SERVICES_CONTENT = [
   {
-    title: "Kitchen Renovation",
+    title: "Dapur",
     description:
       "Transform your kitchen into a modern, functional space with our comprehensive renovation services. From custom cabinetry to state-of-the-art appliances, we handle all aspects of kitchen remodeling.",
     image: kitchenImage,
-    alt: "Kitchen Renovation",
+    alt: "Dapur",
   },
   {
-    title: "Bathroom Renovation",
+    title: "Kamar Mandi",
     description:
       "Create a spa-like retreat in your home with our bathroom renovation services. We offer luxurious fixtures, custom tiling, and innovative designs to elevate your bathroom experience.",
     image: bathroomImage,
-    alt: "Bathroom Renovation",
+    alt: "kamar Mandi",
   },
   {
-    title: "Living Room Renovation",
+    title: "Ruangan Keluarga",
     description:
       "Update your living room with our expert renovation services. We offer custom designs, new flooring options, and stylish lighting solutions to create a warm and inviting space for your family and guests.",
     image: livingRoomImage,
-    alt: "Living Room Renovation",
+    alt: "Ruangan Keluarga",
   },
 ];
 
