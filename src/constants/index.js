@@ -177,10 +177,10 @@ export const CONTACT_INFO = {
   },
   email: {
     label: "Email",
-    value: "info@vastuspaze.com",
+    value: "sribriawati@gmail.com",
   },
   address: {
     label: "Address",
-    value: "1234 Renovation Ave, Suite 100, Your City, ST 56789",
+    value: "JL.Budi agung",
   },
 };
